@@ -25,5 +25,5 @@ pip install -r requirements.txt
 
 4. プログラム実行
 ```
-python google_scraping_main.py
+python google_advertising_scraping.py
 ```
